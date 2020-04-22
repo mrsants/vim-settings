@@ -1,4 +1,4 @@
-# vim-settings-theme
+# vim-settings  
 
 Setting up your vim with the Dracula theme
 
